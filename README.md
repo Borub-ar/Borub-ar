@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.BorubarUnoDuo.cool/BorubarUnoDuo)
+![](https://leetcard.jacoblin.cool/BorubarUnoDuo?border=0&radius=20)

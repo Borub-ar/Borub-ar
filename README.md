@@ -8,4 +8,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # LeetCode Stats:
-![](https://leetcard.jacoblin.cool/BorubarUnoDuo?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/BorubarUnoDuo?border=1&radius=20)
